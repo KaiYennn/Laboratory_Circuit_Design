@@ -7,8 +7,7 @@
 Group workshop was for learning PCB design. Team of 3 in charge of designing the power, remote and control PCBs for a Magni robot.
 
 ## Highlights
-- Designed PCB for control PCB
-
+Designed the control PCB
 
 ### 1. Circuit Design & Layout
 * Architected schematic logic and routed 2-layer PCB ensuring low-noise return paths and proper trace clearance.
